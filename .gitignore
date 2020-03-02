@@ -1,0 +1,7 @@
+.env
+node_modules
+config
+config.json
+test.json
+seeders
+views
