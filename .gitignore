@@ -3,5 +3,6 @@ node_modules
 config
 config.json
 test.json
+test.js
 seeders
 views
